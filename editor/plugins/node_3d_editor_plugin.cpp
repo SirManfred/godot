@@ -119,7 +119,7 @@ constexpr float ZOOM_FREELOOK_MAX = 10'000;
 
 constexpr real_t MIN_Z = 0.01;
 #ifdef REAL_T_IS_DOUBLE
-constexpr real_t MAX_Z = 128000000.0;
+constexpr real_t MAX_Z = 2251792500000000.0;
 #else
 constexpr real_t MAX_Z = 1000000.0;
 #endif
