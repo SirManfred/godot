@@ -1,0 +1,2 @@
+void initialize_planet_module(ModuleInitializationLevel p_level);
+void uninitialize_planet_module(ModuleInitializationLevel p_level);
